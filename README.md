@@ -7,7 +7,7 @@
 <h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Arijaya Putra.</h3>
 <hr>
 <br>
-<p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
+<p><img src="https://img.shields.io/badge/Under%20Grad-Brawijaya University%20'19-blue"/>
 </p>
 
 <!-- My Details -->
@@ -21,7 +21,7 @@
 
 - 👀 I am looking to contribute in **Web Development Project**
 
-- ⚡ I am **Indonesian 🇮🇩**
+- ⚡ I am **Indonesian**
     </p><br>
   <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
