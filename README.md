@@ -22,9 +22,7 @@
 - 👀 I am looking to contribute in **Web Development Project**
 
 - ⚡ I am **Indonesian**
-    </p><br>
-  <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
-
+    </p>
     <!-- My Social Handles -->
 
 <b>>> Connect with me <<</b>
@@ -45,12 +43,6 @@
 <br>
 </details>
 
-<!-- Work Summary -->
-<details>
-<summary><b>Work Summary</b></summary>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajaying&layout=compact&count_private=true&theme=dark">
-</details>
-
 <!-- My Stats -->
 <details>
 <summary><b>My Statistics</b></summary>
@@ -58,9 +50,9 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p>
 <br>
-<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark" alt="amajaying" style="max-width: 100%;"/>
+<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArijayaPutra&theme=dark" alt="arijaya" style="max-width: 100%;"/>
 </p>
-<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
+<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=ArijayaPutra&theme=dracula"/>
 </details>
 
 ## Watch my contributions get eaten by snake 🐍
@@ -71,4 +63,4 @@
 
 <!-- Footer -->
 
-<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
+<img src="footer.jpg">
