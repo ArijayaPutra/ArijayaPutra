@@ -13,15 +13,15 @@
 <!-- My Details -->
 <p>
   
-- 🌱 I’m currently working on **My Portfolio Website.**
+- 🎓 Computer Science Student, in schoolarship by **PT. SPE Solution**
 
-- 💬 Ask me about: **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
+- 💬 Ask me about: **UI/UX Design, Frontend Web Development, NFT**
 
 - 📫 How to reach me? **arijayakimchi@gmail.com**
 
-- 👀 I am looking to contribute in **Open Source Projects.**
+- 👀 I am looking to contribute in **Web Development Project**
 
-- ⚡ Fun fact? **I am amajaying! ;)**
+- ⚡ I am **Indonesian 🇮🇩**
     </p><br>
   <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
