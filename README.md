@@ -45,14 +45,6 @@
 
 <!-- My Stats -->
 <details>
-<summary><b>My Statistics</b></summary>
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=amajaying&theme=react-dark&bg_color=20232a&hide_border=true" alt="amajaying" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p>
-<br>
-<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArijayaPutra&theme=dark" alt="arijaya" style="max-width: 100%;"/>
-</p>
-<img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=ArijayaPutra&theme=dracula"/>
 </details>
 
 ## Watch my contributions get eaten by snake 🐍
