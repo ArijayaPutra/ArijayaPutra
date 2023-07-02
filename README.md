@@ -13,7 +13,7 @@
 <!-- My Details -->
 <p>
   
-- 🎓 Computer Science Student, in schoolarship by **PT. SPE Solution**
+- 🎓 Computer Science Student
 
 - 💬 Ask me about: **UI/UX Design, Frontend Web Development, NFT**
 
